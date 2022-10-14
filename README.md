@@ -9,8 +9,8 @@ This is a module 3 capstone project at Microverse. It entails a React-Redux appl
 - Webpack, Babel, React Testing Library
 - Styled Components
 
-## Live Demo
-- Demo: [Coming soon]()
+## Deploy Link
+- Demo: [See it here!](https://poetic-pixie-9fcd79.netlify.app/)
 
 
 ## Live Video
